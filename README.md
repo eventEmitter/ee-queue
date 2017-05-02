@@ -1,5 +1,7 @@
 # ee-queue
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-queue.svg)](https://greenkeeper.io/)
+
 Queue with optional timing support
 
 this may help you to implmenet rate limiting and timed retransmissions
